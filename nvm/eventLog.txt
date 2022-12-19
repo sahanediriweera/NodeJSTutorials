@@ -1,0 +1,1 @@
+${dataTime}	${uuid()}	${message}${dataTime}	${uuid()}	${message}${values}	9473b6c9-7035-4917-b6af-749deece430d	/index.html	GET20221219	10:34:43	5400959c-55e9-4607-b8e5-724254c8b839	/index.html	GET
